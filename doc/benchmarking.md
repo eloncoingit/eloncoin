@@ -1,14 +1,14 @@
 Benchmarking
 ============
 
-Litecoin Core has an internal benchmarking framework, with benchmarks
+Eloncoin Core has an internal benchmarking framework, with benchmarks
 for cryptographic algorithms (e.g. SHA1, SHA256, SHA512, RIPEMD160), as well as the rolling bloom filter.
 
 Running
 ---------------------
-After compiling Litecoin-core, the benchmarks can be run with:
+After compiling Eloncoin-core, the benchmarks can be run with:
 
-    src/bench/bench_Litecoin
+    src/bench/bench_Eloncoin
 
 The output will look similar to:
 ```
@@ -43,7 +43,7 @@ Help
 ---------------------
 `-?` will print a list of options and exit:
 
-    src/bench/bench_Litecoin -?
+    src/bench/bench_Eloncoin -?
 
 Notes
 ---------------------
