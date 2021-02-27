@@ -44,7 +44,7 @@ _______________________
 How do I start?
 ----------------
 
-- Make sure port tcp 1971 is reachable from outside (optinal, but highly recommended)
+- Make sure port tcp 1971 is reachable from outside (optional, but highly recommended)
 - Open the eloncoin-qt(.exe) or eloncoind(.exe)
 
 Congratulations You're done!
