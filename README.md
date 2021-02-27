@@ -1,4 +1,4 @@
-![eloncoin_ico](https://raw.githubusercontent.com/eloncoingit/eloncoin/master/src/qt/res/icons/bitcoin.ico?token=AS56KPRZXON7DX52M3DU4NTAHK6G4) Eloncoin (ELC)
+![eloncoin_ico](https://raw.githubusercontent.com/eloncoingit/eloncoin/master/src/qt/res/icons/bitcoin.ico?token=AS56KPRTKGZ2MYPRRRN3BR3AHLKH4) Eloncoin (ELC)
 =====================================
 
 What is Eloncoin?
